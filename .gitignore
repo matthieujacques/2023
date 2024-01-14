@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.DS_Store
 *.DS_Store?
+*.zip
+Homework/03/data/Posts.json
